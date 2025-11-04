@@ -1,1 +1,8 @@
+# OS junk
+Thumbs.db
+.DS_Store
+*.log
 
+# Large binaries
+*.iso
+*.ova
